@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+code {
+    white-space: pre;
+}
+
+h1 {
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+textarea {
+    height: 90vh;
+    width: 80%;
+}
+
+.main {
+    padding: 5px;
+}
+
+.search {
+    width: 100%;
+    font-size: 15px;
+    line-height: 15px;
+    margin-left: 12px;
+    height: 40px;
+}
+.search:hover {
+    background-color: lightsalmon;
+}
+
+.sidetool a{
+    color: white;
+    font-size: 20px;
+}
+.sidetool a:hover{
+    color: red;
+}
+
+.wikihead {
+    font-size: 35px;
+    color: white;
+}
+
+.sidebar {
+    background-color: black;
+    height: 100vh;
+    padding: 20px;
+    margin: 0;
+}
+
+.sidebar h2 {
+    margin-top: 5px;
+}
+
+.indexh {
+    font-family: 'Lobster', cursive;
+}
+
+.tabletr{
+    text-align: center;
+    font-family: 'Roboto Slab', serif;
+    font-size: 23px;
+    font-weight: bold;
+}
+.tabletr:hover{
+    background-color: lightgrey;
+}
+
+.tabletr a{
+    color: black;
+}
+.tabletr a:hover{
+    color: blue;
+}
+
+.penicon{
+    color: black;
+}
+
+.penicon:hover{
+    color: blue;
+}
+
+.penbtn{
+    width: 100px;
+    font-size: large;
+    font-weight: bold;
+    border: 1px black solid;
+}
+.penbtn:hover{
+    border: 1px black solid;
+}
+.penbtn a{
+    color: black;
+}
+
+/*New Entry*/
+.NewEhead{
+    font-family: 'Lobster', cursive;
+}
+
+input #newsubtn{
+    color: black;
+}
+
+/*nonExistingEntry*/
+.errorh{
+    font-family: 'Roboto Slab', serif;
+    color: red;
+}
